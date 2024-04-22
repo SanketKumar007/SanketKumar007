@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning  
 - 🌱 I’m currently learning Computer vision and applications of python
 - 📫 How to reach me : Through linkedin or through mail
-- 🏡 Currently studing in BIT Sindri doing B.Tech course
+- 🏡 Currently studying in BIT Sindri doing B.Tech course
 
 
 <!---
